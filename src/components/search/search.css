@@ -1,0 +1,9 @@
+.top {
+    margin-top: 20px;
+    padding: 0 20%;
+}
+
+.top > button {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
